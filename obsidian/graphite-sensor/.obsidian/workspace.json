@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b3d0af10f80aa0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b24348acf23eddd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca59bb1096c4323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sensor v1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sensor v1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "406edc152c4e010f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fee6aa3e1ab1b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a59926b3ab32119",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bcdfc089bd066b1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f33cbf8e00ca0098",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54ed077966ceb5c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb8d1221d23a084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b2b28875b0104a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sensor v1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for sensor v1"
+            }
+          },
+          {
+            "id": "900e2fe69c1deb4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sensor v1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sensor v1"
+            }
+          },
+          {
+            "id": "2418b07f70bd539c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ca21af83c97e5a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e5a5e91ae39ee05f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sensor v1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sensor v1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "eca59bb1096c4323",
+  "lastOpenFiles": [
+    "sensor v1.md",
+    "pinouts/opamp.png",
+    "pinouts/esp32.png",
+    "attachments/Pasted image 20260330181508.png",
+    "attachments",
+    "pinouts",
+    "Welcome.md",
+    "graphite-sensor/pinouts/esp32.png",
+    "graphite-sensor/pinouts/opamp.png",
+    "graphite-sensor/sensor v1.md",
+    "graphite-sensor/pinouts",
+    "graphite-sensor"
+  ]
+}
