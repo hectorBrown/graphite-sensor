@@ -2,7 +2,6 @@
 
 const int adcPin = 34;
 const int time_step = 5;
-int ms_time = 0;
 
 void setup() {
   Serial.begin(9600);
@@ -12,10 +11,8 @@ void setup() {
 
 void loop() {
 
-  float rawValue = analogRead(adcPin);
-  Serial.print(rawValue);
+  Serial.print(analogRead(adcPin));
   Serial.print(",");
-  Serial.println(ms_time);
+  Serial.println(millis());
   delay(time_step);
-  ms_time += time_step;
 }

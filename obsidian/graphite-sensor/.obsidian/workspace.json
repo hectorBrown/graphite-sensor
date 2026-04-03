@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2026-04-02.md",
+                "file": "circuits/v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-02"
+              "title": "v1"
             }
           }
         ]
@@ -187,9 +187,20 @@
   },
   "active": "03cb34cd1c533f60",
   "lastOpenFiles": [
-    "figures/laptop-groundloop-demo.png",
+    "sensors/v1.md",
+    "notes/2026-04-03.md",
+    "figures/outwardbend-power-spectrum.png",
+    "figures/sensor1-outwardbend-timeseries.png",
     "notes/2026-04-02.md",
+    "readings.md",
     "Untitled.md",
+    "readings/sensor1-idle_1.md",
+    "readings",
+    "readings",
+    "figures/dc-power-spectrum.png",
+    "figures/sensor1-idle-hist_dc.png",
+    "Untitled 1.md",
+    "figures/laptop-groundloop-demo.png",
     "circuits/v1.md",
     "circuits/attachments/Pasted image 20260402161343.png",
     "sensors/attachments",
@@ -201,18 +212,11 @@
     "Excalidraw/Drawing 2026-04-02 16.01.17.excalidraw.md",
     "Excalidraw",
     "circuits/v1.circuit-sketcher",
-    "sensors/v1.md",
     "circuits",
     "sensors",
-    "figures/sensor1-idle-hist.png",
     "figures",
     "notes",
-    "pinouts/opamp.png",
-    "pinouts/esp32.png",
-    "attachments",
-    "pinouts",
     "Welcome.md",
-    "graphite-sensor/pinouts/esp32.png",
     "graphite-sensor/sensor v1.md"
   ]
 }
